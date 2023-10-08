@@ -1,0 +1,5 @@
+aiofiles~=23.2.1
+aiohttp~=3.8.5
+backoff~=2.2.1
+aiocsv~=1.2.4
+pydantic~=2.4.2
